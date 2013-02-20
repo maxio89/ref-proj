@@ -3,7 +3,6 @@ package com.yartista.test;
 import com.yartista.Constants;
 import com.yartista.framework.business.EntityQuery;
 import com.yartista.framework.view.ListViewHelper;
-import com.yartista.venue.view.AbstractListView;
 import org.junit.Assert;
 import org.junit.Test;
 import pl.com.it_crowd.arquillian.mock_contexts.ConversationScopeRequired;
